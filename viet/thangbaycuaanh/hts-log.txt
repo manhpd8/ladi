@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 14 Jul 2020 16:55:24 at https://khoi.thangbaycuaanh.online/yeuchang +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://khoi.thangbaycuaanh.online/yeuchang -O1 "S:\WinHTTrack\ASite\https___khoi.thangbaycuaanh.online_yeuchang" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:55:44	Warning: 	Link https://khoi.thangbaycuaanh.online/POST not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 55 links scanned, 54 files written (3863311 bytes overall) [3431771 bytes received at 171588 bytes/sec], 3772421 bytes transferred using HTTP compression in 53 files, ratio 87%, 5.0 requests per connection
+(No errors, 1 warnings, 0 messages)
